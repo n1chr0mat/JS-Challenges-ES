@@ -22,6 +22,10 @@ function $fillArray(number, numbers) {
 			counter++;
 
 		}
+
+		else{
+			alert("El numero tiene que ser comprendido entre 1 y 49")
+		}
 	}
 
 	return numbers;
