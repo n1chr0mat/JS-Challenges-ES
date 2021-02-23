@@ -19,7 +19,7 @@ function $fillArray(number, numbers) {
 		if (number >= 1 && number <= 49) {
 
 			numbers[counter] = number;
-			counter--;
+			counter++;
 
 		}
 	}
